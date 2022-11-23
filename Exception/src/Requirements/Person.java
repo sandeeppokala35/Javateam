@@ -4,7 +4,7 @@ public class Person {
 
 	public static void main(String[] args) {
 		int validage=18;
-		int personage=-1;
+		int personage=27;
 		try {
 
 			int result=Age(validage,personage);

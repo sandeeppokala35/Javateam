@@ -20,8 +20,8 @@ public class ArrayListExample {
 		System.out.println(Name);
 		Name.set(1,"pavan");//replaced position[1]
 		System.out.println(Name);
-		System.out.println(Name.contains("pavan"));//searching available or not
-		System.out.println(Name.get(3));//getting value
+		System.out.println(Name.contains("prabhas"));//searching available or not
+		System.out.println(Name.get(0));//getting value
 		System.out.println(Name.size());//size of array
 		Name.clear();//clear all in array
 		System.out.println(Name);

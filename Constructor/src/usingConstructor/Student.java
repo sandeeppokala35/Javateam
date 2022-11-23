@@ -12,6 +12,6 @@ public class Student {
 		this.marks=l_marks;
 	}
 	void show(){
-		System.out.println(this.name+" "+this.marks);
+		System.out.println(name+" "+marks);
 	}
 }

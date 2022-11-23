@@ -3,7 +3,7 @@ package Requirements;
 public class Age {
 
 	public static void main(String[] args) {
-		int age=120;//variable
+		int age=101;//variable
 		try {
 			validateage(age);//method
 			if(age>=18) {

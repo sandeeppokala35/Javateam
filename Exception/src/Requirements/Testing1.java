@@ -3,7 +3,7 @@ package Requirements;
 public class Testing1 {
 
 	public static void main(String[] args) throws TooOldException{
-		int age=61;
+		int age=65;
 		try {
 
 			 if(age>60){

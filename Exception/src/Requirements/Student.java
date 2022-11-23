@@ -3,12 +3,12 @@ package Requirements;
 public class Student {
 
 	public static void main(String[] args) {
-		int passmarks=45;
+		int passmarks=75;
 		int resultmarks=0;
 		try {
 
 			int result=value(passmarks,resultmarks);
-			if(result>=0 && result<45) {
+			if(result>=0 && result<35) {
 				System.out.println("fail");
 			}
 			else
