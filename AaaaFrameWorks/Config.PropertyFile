@@ -1,0 +1,8 @@
+URL=http://orangehrm.qedgetech.com/symfony/web/index.php/auth/login 
+
+Admin_UserName=Admin
+Admin_Password=Qedge123!@#
+
+#chrome #Firefox
+BROWSER=chrome
+
