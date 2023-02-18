@@ -1,6 +1,6 @@
-package shapes;
+package PractiseWorld;
 
-public class Main {
+public class NumericTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
